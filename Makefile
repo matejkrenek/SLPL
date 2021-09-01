@@ -1,4 +1,4 @@
-exec = hello.slpl
+exec = hello.out
 sources = $(wildcard src/*.c)
 objects = $(sources:.c=.o)
 flags = -g

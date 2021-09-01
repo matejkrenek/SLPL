@@ -1,0 +1,6 @@
+<str> firstName = "Matej";
+<str> lastName = "Krenek";
+<int> age = 18;
+<float> IQ = 2.9;
+
+console.write(firstName);
